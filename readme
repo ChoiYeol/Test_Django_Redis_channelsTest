@@ -1,0 +1,7 @@
+https://caniro.tistory.com/252
+이 페이지를 보고 대부분을 만듦
+django 모듈별로 각자 호환이 안되는 경우가 있어서 버전 맞추는데 시간이좀 걸림.
+pip install channels==3.0.1
+pip install channels-redis==2.4.2
+
+이 두가지로 했을때 호환이 가능했음.
